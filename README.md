@@ -1,3 +1,3 @@
 # hello_world
-first repository
+first repository\n
 first branch other than master
